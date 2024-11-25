@@ -12,3 +12,14 @@ body{
     padding-top: 80px;
     padding-bottom: 80px;
 }
+header{
+    color:black;
+    font-size: 35px solid;
+    padding: 20px;
+}
+.chamada-texto{
+    margin-right:5%;
+}
+h1{
+    font-size:36px;
+}
